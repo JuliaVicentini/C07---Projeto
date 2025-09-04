@@ -37,5 +37,5 @@ O modelo foi desenvolvido no **MySQL Workbench** e segue as instruções da disc
 
 ## 5. Autores
 
-- João Pedro Torrano Dias
-- Júlia do Amaral Vicentini
+- João Pedro Torrano Dias - GES 273
+- Júlia do Amaral Vicentini - GES 498
